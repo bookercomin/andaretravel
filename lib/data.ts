@@ -12,7 +12,7 @@ export const destinations: Destination[] = [
     slug: "italy",
     name: "Italy",
     description:
-      "From cliffside villages on the Amalfi Coast to quiet trattorias in Rome, Italy is where Andare Travel began — and it's still where we do our deepest work.",
+      "From cliffside villages on the Amalfi Coast to quiet trattorias in Rome, Italy is where Andare Travel began where we do our deepest work.",
     image: "/images/amalfi-coast-positano.jpg",
     alt: "Aerial view of the Amalfi Coast with the village of Positano nestled into the cliffside above the sea",
     featured: true,
@@ -96,6 +96,14 @@ export const destinations: Destination[] = [
     slug: "netherlands",
     name: "Netherlands",
     description: "Canal cities, tulip fields, and cycling routes that unfold like a postcard.",
+    image: "/images/venice-aerial-cityscape.jpg",
+    alt: "Aerial view of a European waterfront city at golden hour with boats in the canal",
+  },
+];
+{
+    slug: "belgium",
+    name: "Belgium",
+    description: "Historic cities, artisan chocolate, and centuries-old architecture around every corner.",
     image: "/images/venice-aerial-cityscape.jpg",
     alt: "Aerial view of a European waterfront city at golden hour with boats in the canal",
   },
