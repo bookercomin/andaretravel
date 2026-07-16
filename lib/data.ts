@@ -121,13 +121,13 @@ export const services: Service[] = [
   {
     name: "Ready-to-Go Itineraries",
     price: "$50–150",
-    description: "Perfect for independent travelers who want a proven route, not a blank page.",
+    description: "Perfect for independent travelers who want a proven route.",
     features: ["Day-by-day itinerary template", "Curated recommendations", "Digital guide, yours to keep"],
   },
   {
     name: "DIY Planning",
     price: "$300–600",
-    description: "A custom itinerary and our recommendations — you book everything yourself.",
+    description: "A custom itinerary and our recommendations, you book everything yourself.",
     features: ["Fully custom itinerary", "Personal recommendations", "One planning consultation"],
   },
   {
@@ -156,7 +156,7 @@ export type TravelStyle = {
 export const travelStyles: TravelStyle[] = [
   {
     name: "Honeymooners",
-    description: "Romantic, private, and unforgettable — our specialty, and our favorite trips to design.",
+    description: "Romantic, private, and unforgettable, our specialty, and our favorite trips to design.",
     image: "/images/venice-lagoon-sunset.jpg",
     alt: "Golden sunset silhouette over the Venetian lagoon and Santa Maria della Salute",
     emphasized: true,
@@ -203,7 +203,7 @@ export type Testimonial = {
 export const testimonials: Testimonial[] = [
   {
     quote:
-      "Andare didn't just plan our honeymoon — they planned the version of Italy we didn't know how to find on our own.",
+      "Booker didn't just plan our honeymoon, he planned the version of Italy we didn't know how to find on our own.",
     name: "Placeholder Client",
     trip: "Amalfi Coast & Rome, Honeymoon",
   },
@@ -213,7 +213,7 @@ export const testimonials: Testimonial[] = [
     trip: "Tuscany & Florence, Anniversary Trip",
   },
   {
-    quote: "From the first call to the last dinner reservation, everything was thoughtful, and nothing felt generic.",
+    quote: "From the first call to the last dinner reservation, everything was thoughtful, and the experiences we had were unforgettable.",
     name: "Placeholder Client",
     trip: "Lake Como & Venice, Family Trip",
   },
