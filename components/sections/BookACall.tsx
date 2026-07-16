@@ -33,7 +33,10 @@ export function BookACall() {
         </Reveal>
 
         <Reveal delay={0.15} className="mx-auto mt-14 max-w-2xl rounded-2xl border border-cream/20 bg-cream/10 p-6 text-sm text-cream/70 backdrop-blur-sm">
-          
+          <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/bookerjcomin/30min?text_color=1e2a33&primary_color=be6239" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
         </Reveal>
       </div>
     </section>
