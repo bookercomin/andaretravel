@@ -25,7 +25,7 @@ export function BookACall() {
             Let&apos;s Plan Something You&apos;ll Remember Forever.
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg text-cream/80">
-            A complimentary consultation, no obligation — just a conversation about the trip you&apos;re
+            A complimentary consultation where we talk about the trip you&apos;re
             dreaming about.
           </p>
           <Button size="lg" variant="light" className="mt-9">
