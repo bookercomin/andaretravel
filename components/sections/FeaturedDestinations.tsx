@@ -15,7 +15,7 @@ export function FeaturedDestinations() {
           <p className="eyebrow">Featured Destinations</p>
           <h2 className="mt-4 text-display-md">Where We Take Our Travelers</h2>
           <p className="mt-5 text-lg text-ink/70">
-            Twelve countries, one philosophy: go deeper, not just further. This list grows every season.
+            Thirteen countries, one philosophy: travel beyond the guidebooks.
           </p>
         </Reveal>
 
