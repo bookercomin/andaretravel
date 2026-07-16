@@ -17,7 +17,7 @@ export function ItalySpotlight() {
             <div className="relative">
               <p className="eyebrow text-terracotta-light">The Country That Inspired Everything</p>
               <h2 className="mt-4 text-display-md text-cream">
-                The trip that never really ended.
+                Meet Your Consultant
               </h2>
             </div>
           </Reveal>
@@ -30,11 +30,11 @@ export function ItalySpotlight() {
             </p>
             <p>
               A few years ago, I had the opportunity to spend an extended period living in Italy.
-              During that time, I learned the language, immersed myself in the culture, and explored
+              During that time, I learned Italian, immersed myself in the culture, and explored
               everything from iconic cities to quiet villages that rarely make it into travel
               guides. Some of my favorite memories came from long train rides, family-owned
               restaurants, getting lost down cobblestone streets, and discovering places I never
-              would have found if I had stayed on the typical tourist path.
+              would have found if I had lived through the typical tourist experience.
             </p>
             <p>
               Those experiences changed the way I travel, and they&apos;re the reason I started Andare
