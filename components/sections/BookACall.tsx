@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Script from "next/script";
 import { Reveal } from "@/components/motion/Reveal";
 import { Button } from "@/components/ui/button";
 
@@ -36,10 +37,14 @@ export function BookACall() {
           {/* Calendly inline widget begin */}
           <div 
             className="calendly-inline-widget" 
-            data-url="https://calendly.com/bookerjcomin/30min?text_color=..." 
+            data-url="https://calendly.com/bookerjcomin/30min" 
             style={{ minWidth: '320px', height: '700px' }}
           />
-          <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async />
+          <Script 
+            type="text/javascript" 
+            src="https://assets.calendly.com/assets/external/widget.js" 
+            strategy="lazyOnload"
+          />
           {/* Calendly inline widget end */}
         </Reveal>
       </div>
