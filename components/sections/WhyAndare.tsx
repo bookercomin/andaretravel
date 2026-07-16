@@ -22,7 +22,7 @@ export function WhyAndare() {
           <p className="eyebrow">Why Andare</p>
           <h2 className="mt-4 text-display-md">Travel Like Someone Who Knows Europe</h2>
           <div className="mt-6 space-y-5 text-lg leading-relaxed text-ink/75">
-            <p>Most vacations are built around landmarks. We build journeys around moments.</p>
+            <p>Most vacations are built around landmarks. We build journeys around experiences and relationships.</p>
             <p className="font-display text-xl italic text-ink/90">
               The hidden vineyard. The family-owned restaurant. The quiet village. The scenic train
               ride. The unforgettable sunset you&apos;ll still talk about years later.
