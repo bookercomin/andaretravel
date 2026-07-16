@@ -33,7 +33,7 @@ export function BookACall() {
         </Reveal>
 
         <Reveal delay={0.15} className="mx-auto mt-14 max-w-2xl rounded-2xl border border-cream/20 bg-cream/10 p-6 text-sm text-cream/70 backdrop-blur-sm">
-          https://calendly.com/bookerjcomin/30min
+          
         </Reveal>
       </div>
     </section>
