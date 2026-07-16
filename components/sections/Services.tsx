@@ -12,7 +12,7 @@ export function Services() {
           <p className="eyebrow">Services</p>
           <h2 className="mt-4 text-display-md">A Level of Planning for Every Traveler</h2>
           <p className="mt-5 text-lg text-ink/70">
-            From a proven itinerary template to a fully personalized concierge experience — choose
+            From a proven itinerary template to a fully personalized concierge experience, choose
             the level of support that fits how you like to travel.
           </p>
         </Reveal>
