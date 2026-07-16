@@ -99,8 +99,8 @@ export const destinations: Destination[] = [
     image: "/images/venice-aerial-cityscape.jpg",
     alt: "Aerial view of a European waterfront city at golden hour with boats in the canal",
   },
-  {
-  slug: "belgium",
+ {
+    slug: "belgium",
     name: "Belgium",
     description: "Historic cities, artisan chocolate, and centuries-old architecture around every corner.",
     image: "/images/venice-aerial-cityscape.jpg",
