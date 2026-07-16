@@ -59,7 +59,7 @@ export function Hero() {
           transition={{ duration: 0.9, delay: 0.55 }}
           className="mt-6 max-w-xl text-balance text-lg text-cream/85 md:text-xl"
         >
-          Custom European adventures designed around your story, not someone else&apos;s itinerary.
+          Custom European adventures designed around your story.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
